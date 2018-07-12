@@ -38,4 +38,4 @@ To run the code/benchmark use the following command
 $ go test -bench=.
 
 # About
-This project was created by [Piyush Dewnani] <[piyush@dewnani.net](mailto:piyush@dewnani.net)>.
+This project was created by [Piyush Dewnani](mailto:piyush@dewnani.net)
